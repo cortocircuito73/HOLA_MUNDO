@@ -14,7 +14,7 @@ int main(){
 	for(int i=0; i<=pos; i++){
 		cout<<" ";
 		if(i==7){
-			  						cout<<titulo;
+			cout<<titulo;
 			i=pos;
 		}
 		cout<<" ";
